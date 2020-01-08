@@ -1,7 +1,22 @@
 h1 {
-  color: red
+  color: red;
 }
 
 p {
-  color: blue
+  color: blue;
+}
+
+h2 {
+  color: green;
+}
+
+h3 {
+  font-style: italic; color: purple;
+}
+
+h4 {
+  font-style: bold; color: orange;
+}
+title {
+  color: pink;
 }
